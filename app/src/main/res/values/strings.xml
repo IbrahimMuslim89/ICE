@@ -1,0 +1,174 @@
+<resources>
+    <string name="app_name">ICE</string>
+    <string name="Login_button">Log In</string>
+    <string name="Signup_button">Sign Up</string>
+    <string name="image">Image</string>
+    <string name="title_activity_login">Login</string>
+    <string name="Login_bar">Log In</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Login_text">Forgot your password?</string>
+    <string name="F_name">First Name</string>
+    <string name="L_name">Last Name</string>
+    <string name="M_name">Middle Name</string>
+    <string name="DPL">Date of Birth</string>
+    <string name="Phone">+92</string>
+    <string name="Phone2">e.g 3007519100</string>
+    <string name="Health">Health Description</string>
+    <string name="Address">Address</string>
+    <string name="R1">Yes</string>
+    <string name="R2">No</string>
+    <string name="Diabetes">Diabetes</string>
+    <string name="Blood_pressure">Blood Pressure</string>
+    <string name="emergency_text">Emergency Contact Details</string>
+
+
+    <string name="Emergency">Emergency Contact</string>
+    <string name="Emergency1">Emergency</string>
+    <string name="Text_security">We have sent you a security code</string>
+    <string name="Text_Security_code">Security Code</string>
+    <string name="submit_button">Submit</string>
+    <string name="Logout_button">Log Out</string>
+    <string name="View">View Profile</string>
+    <string name="Notification">Notifications</string>
+    <string name="Biometric">Biometric Registration</string>
+    <string name="Rescue">Rescue</string>
+    <string name="NFC">NFC Set</string>
+    <string name="Location">Location</string>
+    <string name="Settings">Settings</string>
+
+    <string name="Allow">Allow Notification on screen</string>
+    <string name="Name">Show Name</string>
+    <string name="E_name">Emergency Name</string>
+    <string name="E_contact">Emergency Contact</string>
+    <string name="H_description">Health Description</string>
+    <string name="Profile">Profile Picture</string>
+    <string name="Add_Finger">Submit</string>
+    <string name="bio_text">Place your thumb on biometric scanner</string>
+    <string name="Add_NFC">Scan</string>
+    <string name="E_details">Details About Emergency</string>
+    <string name="Change_p">Change Password</string>
+    <string name="Change_pin">Change Pin</string>
+    <string name="Old_p">Old Password</string>
+    <string name="new_p">New Password</string>
+    <string name="confirm_p">Confirm New Password</string>
+
+    <string name="Old_pin">Old Pin</string>
+    <string name="new_pin">New Pin</string>
+    <string name="confirm_pin">Confirm New Pin</string>
+
+    <string name="Confirm_button">Confirm</string>
+    <string name="About_Us">About Us?</string>
+
+    <string name="Name_p">Name</string>
+    <string name="DOB_p">Date of Birth</string>
+    <string name="blood_p">Blood Group</string>
+    <string name="Email_p">Email</string>
+    <string name="Health_p">Health Description</string>
+    <string name="phone_p">Phone</string>
+    <string name="Emergencyphone_p">Emergency Phone#</string>
+    <string name="Address_p">Address</string>
+    <string name="NFC_activity">NFC Settings</string>
+    <string name="bloodBank_text">blank</string>
+    <string name="bloodBank">Blood Bank</string>
+    <string name="Emergency_Name">Emergency holder Name</string>
+    <string name="Emergency_Relation">Relation e.g Brother</string>
+
+    <string name="Emergency_name_p">Emergency Name</string>
+    <string name="Emergency_Relation_P">Emergency Relation</string>
+    <string name="cPassword">Confirm Password</string>
+    <string name="Set_button">Choose Picture</string>
+    <string name="blood_group">Blood Group e.g(B+)</string>
+
+    <string name="Live_locationbtn">Live Location</string>
+
+
+    <string name="Name_en">Name</string>
+    <string name="Name_endb">Namedb</string>
+    <string name="DOB_en">DOB</string>
+    <string name="DOB_endb">DOB_db</string>
+    <string name="Blood_en">Blood Group</string>
+    <string name="Blood_endb">Blooddb</string>
+    <string name="email_en">email</string>
+    <string name="email_endb">emaildb</string>
+
+    <string name="health_en">Allergies</string>
+    <string name="health_endb">Allergiesdb</string>
+    <string name="User_phone_en">User-Ph#</string>
+    <string name="User_phone_endb">User-Ph#db</string>
+    <string name="Emergency_phoneen">E-Phone#</string>
+    <string name="Emergency_phoneendb">E-Phone#db</string>
+    <string name="Emergency_nameen">Relative name</string>
+    <string name="Emergency_nameendb">R-namedb</string>
+    <string name="Emergency_relationen">Relation</string>
+    <string name="Emergency_relationendb">Relativedb</string>
+    <string name="Address_en">Address</string>
+    <string name="Address_endb">Addressdb</string>
+
+    <string name="main_activity">Sign in from Hospital?</string>
+
+
+    //MAP API Key Implementation
+    <string name="MapAPI_Key">AIzaSyDq8ELZX60XL7wERDCL7So6mEIkcQc7zvo</string>
+    <string name="current_location">Current Location</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="Hospital_dashboard">Hospital Name</string>
+    <string name="History">History</string>
+    <string name="Addres_H">Hospital Location</string>
+    <string name="Profile_patient">Profile Patient</string>
+
+
+
+
+
+
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_out">Sign out</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="resend_verification_email">Resend Verification Email</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="tabian_consulting_logo">Tabian Consulting Logo</string>
+    <string name="email_registration">Email Registration</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <!-- Firestore Strings -->
+    <string name="collection_users">Users</string>
+    <string name="collection_chatrooms">Chatrooms</string>
+    <string name="collection_chat_messages">Chat Messages</string>
+    <string name="collection_chatroom_user_list">User List</string>
+    <string name="collection_user_locations">User Locations</string>
+
+    <!-- Intent extras -->
+    <string name="intent_chatroom">intent_chatroom</string>
+    <string name="intent_user_list">intent_user_list</string>
+    <string name="intent_user_locations">intent_user_locations</string>
+    <string name="intent_location">intent_location</string>
+
+    <!-- Service and Broadcasts -->
+    <string name="gps_location">gps_location</string>
+
+
+    <!-- Fragments Names -->
+    <string name="fragment_user_list">User List</string>
+    <string name="fragment_image_list">Image List</string>
+
+    <!-- Other Strings -->
+    <string name="action_create_chatroom">Create Chatroom</string>
+    <string name="action_leave_chatroom">Leave chatroom</string>
+    <string name="action_chatroom_user_list">User list</string>
+    <string name="action_profile">Profile</string>
+
+</resources>

@@ -1,0 +1,4 @@
+#Wed Oct 30 06:13:54 PKT 2019
+base.0=/Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

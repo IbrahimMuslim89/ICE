@@ -1,0 +1,4 @@
+#Wed Oct 30 22:57:22 PKT 2019
+base.0=/Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex

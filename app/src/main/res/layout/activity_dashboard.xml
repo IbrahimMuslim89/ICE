@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Dashboard"
+    android:background="@color/ScreenColor"
+    >
+
+
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/Redcolor"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+
+        ></androidx.appcompat.widget.Toolbar>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="193dp"
+        android:layout_height="193dp"
+        app:srcCompat="@drawable/profile"
+        android:layout_below="@id/toolbar"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/image"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/button7"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toolbar"
+        android:text="@string/Logout_button"
+        android:textColor="@color/Redcolor"
+        android:layout_alignParentRight="true"/>
+
+    <TextView
+        android:id="@+id/View_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/View"
+        android:layout_below="@id/imageView2"
+        android:layout_centerHorizontal="true"
+        android:textSize="15sp"
+        android:layout_marginTop="-20dp"
+        android:textColor="@color/Redcolor"
+
+        />
+
+    <TextView
+        android:id="@+id/Notification"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Notification"
+        android:layout_below="@id/View_profile"
+        android:layout_marginTop="20dp"
+        android:textSize="25sp"
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/Redcolor"
+        android:layout_marginBottom="8dp"/>
+
+
+
+    <TextView
+        android:id="@+id/Rescue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Rescue"
+        android:layout_below="@id/Notification"
+        android:textSize="25sp"
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/Redcolor"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/bloodBank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="bloodBank"
+        android:textSize="25sp"
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/Redcolor"
+        android:layout_below="@id/Rescue"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/NFC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/NFC"
+        android:layout_below="@id/bloodBank"
+        android:textSize="25sp"
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/Redcolor"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/Location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Location"
+        android:layout_below="@id/NFC"
+        android:textSize="25sp"
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/Redcolor"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/settings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Settings"
+        android:layout_below="@id/Location"
+        android:textSize="25sp"
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/Redcolor"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/settings"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:background="@color/Redcolor"
+        android:text="@string/Emergency1"
+        android:textColor="@color/white" />
+
+
+</RelativeLayout>
+
+</ScrollView>

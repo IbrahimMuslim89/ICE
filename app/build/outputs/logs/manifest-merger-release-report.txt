@@ -1,0 +1,396 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:2:1-58:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/27e0f00cf59e3443055fc2c812a70d05/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/ba66021808c9467393c485d9191ab8d9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/089e77001b05953ccb210a49f7a30d06/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/32b574b6a9a3b80f492fe908674226c6/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-nearby:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/2f4d95c68b22c784e59db1b41e5295ac/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/467db0ce5acbfcfd240647fef1892aed/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/9a2fbc511e0bab3182b2cf1f87cd032d/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/97f5cade92960db03639dc8a31811452/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/dc5db230fd631f7586113a78aa40dcf0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/40f8ef64b8eca338f8bc2aec2c7dbc8d/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/0453d98e8c682e47007a5fab668ce78d/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/db878a3eb53d850ed54eb3c055936ab5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/f7cf8b409f52ef3a7b69907e669f38aa/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/8b00ea91df13925d2d3a218fa456ba26/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/69ba525426acfc0d44e29e488a760f4a/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/d87eefa7a6bdb39cb3badd35cda4dd0b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/027dd2eea7ea216e10b036bd0efbe397/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e61689adcd552532961c79c300562bf3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/361dac6833244b0a1f49af0aab4044c6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/9b09a38ccbf118144a918f7f0cc0fb1e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/00d01b5b00178c392557e980276db7fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/f75e691120097c7182e0372b06b24bb8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/55becfdadd456a46bc675429d5d23a85/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/83d7ab0863e79cba8326c19735e4e7fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/7c1ea6d205c30cd27fd8ac54063b1bc4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/44dd3b029ffb06433c4a073acb6c6c0c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/23a8c8666ba08366e003b4823fac3a4c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/4840fc27f0f7b1f8fa51046c9765a332/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/d209986e284c296261b00f81aa5aceb0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/48c5ac949a426542474bdad0be4afd5e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/bc4dcfe31c3ed02549ab1fd7d7c92beb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/7f48f889e13ad3d508294682332efc89/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/5bb785c72d1279c5f94804b6dd11b30e/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/f1e509e163820a68aaf0af12cfac9d07/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/4ebf9736dcc0d4a2a1222d69ac90b9ce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/ab1a329fb30bbd0671a05e0477484e76/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/ac3eacf3df8b0587eabca2d4cf230c3c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/1153a11382ef3cccb157244adf397b45/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/80d88ce176c14e5ff0e06d7e06ea2a57/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/61ed52acd4361c8f588f1a3d02def1f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/b66f7f3144c32675c050875a06e11083/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/feda5de4e782cbf8b9eacc749ac73bc9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/a6d3ed556e2a2db10778142ee667ae41/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/46fa76fb584be203889b21aee0aa194a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/0f24bafd2b57d6c98a656c669e152da9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/655520722714df3940df30cb50023961/AndroidManifest.xml:17:1-22:12
+INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:2:1-58:12
+		INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:2:1-58:12
+		INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:8:5-84
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:8:22-82
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:11:5-78
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/32b574b6a9a3b80f492fe908674226c6/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/32b574b6a9a3b80f492fe908674226c6/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/2f4d95c68b22c784e59db1b41e5295ac/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/2f4d95c68b22c784e59db1b41e5295ac/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/9a2fbc511e0bab3182b2cf1f87cd032d/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/9a2fbc511e0bab3182b2cf1f87cd032d/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:12:5-88
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:12:22-86
+application
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:15:5-56:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/27e0f00cf59e3443055fc2c812a70d05/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/27e0f00cf59e3443055fc2c812a70d05/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/089e77001b05953ccb210a49f7a30d06/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/089e77001b05953ccb210a49f7a30d06/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/32b574b6a9a3b80f492fe908674226c6/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/32b574b6a9a3b80f492fe908674226c6/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-nearby:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/2f4d95c68b22c784e59db1b41e5295ac/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/2f4d95c68b22c784e59db1b41e5295ac/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/467db0ce5acbfcfd240647fef1892aed/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/467db0ce5acbfcfd240647fef1892aed/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/dc5db230fd631f7586113a78aa40dcf0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/dc5db230fd631f7586113a78aa40dcf0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/40f8ef64b8eca338f8bc2aec2c7dbc8d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/40f8ef64b8eca338f8bc2aec2c7dbc8d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/0453d98e8c682e47007a5fab668ce78d/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/0453d98e8c682e47007a5fab668ce78d/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/db878a3eb53d850ed54eb3c055936ab5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/db878a3eb53d850ed54eb3c055936ab5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/f7cf8b409f52ef3a7b69907e669f38aa/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/f7cf8b409f52ef3a7b69907e669f38aa/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/69ba525426acfc0d44e29e488a760f4a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/69ba525426acfc0d44e29e488a760f4a/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/5bb785c72d1279c5f94804b6dd11b30e/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/5bb785c72d1279c5f94804b6dd11b30e/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/ab1a329fb30bbd0671a05e0477484e76/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/ab1a329fb30bbd0671a05e0477484e76/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/5bb785c72d1279c5f94804b6dd11b30e/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:19:9-41
+	tools:ignore
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:23:9-48
+	android:roundIcon
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:22:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:25:9-27:70
+	android:value
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:27:13-68
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:26:13-58
+meta-data#com.google.android.gms.version
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:28:9-30:68
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/69ba525426acfc0d44e29e488a760f4a/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/69ba525426acfc0d44e29e488a760f4a/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:30:13-66
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:29:13-58
+activity#com.example.ice.Verification
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:33:9-49
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:33:19-47
+activity#com.example.ice.Location
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:34:9-46
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:34:19-43
+activity#com.example.ice.NFC
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:35:9-41
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:35:19-38
+activity#com.example.ice.Bloodbank
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:36:9-47
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:36:19-44
+activity#com.example.ice.View_profile
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:37:9-50
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:37:19-47
+activity#com.example.ice.Settings
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:38:9-46
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:38:19-43
+activity#com.example.ice.Rescue
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:39:9-44
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:39:19-41
+activity#com.example.ice.Notification
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:40:9-50
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:40:19-47
+activity#com.example.ice.Dashboard
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:41:9-47
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:41:19-44
+activity#com.example.ice.Register
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:42:9-46
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:42:19-43
+activity#com.example.ice.login
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:43:9-43
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:43:19-40
+activity#com.example.ice.MainActivity
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:44:9-52:20
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:44:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:50:27-74
+activity#com.example.ice.MapActivity
+ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:53:9-48
+	android:name
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml:53:19-46
+uses-sdk
+INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/27e0f00cf59e3443055fc2c812a70d05/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/27e0f00cf59e3443055fc2c812a70d05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/ba66021808c9467393c485d9191ab8d9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/ba66021808c9467393c485d9191ab8d9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/089e77001b05953ccb210a49f7a30d06/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/089e77001b05953ccb210a49f7a30d06/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/32b574b6a9a3b80f492fe908674226c6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/32b574b6a9a3b80f492fe908674226c6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/2f4d95c68b22c784e59db1b41e5295ac/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/2f4d95c68b22c784e59db1b41e5295ac/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/467db0ce5acbfcfd240647fef1892aed/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/467db0ce5acbfcfd240647fef1892aed/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/9a2fbc511e0bab3182b2cf1f87cd032d/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/9a2fbc511e0bab3182b2cf1f87cd032d/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/97f5cade92960db03639dc8a31811452/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/97f5cade92960db03639dc8a31811452/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/dc5db230fd631f7586113a78aa40dcf0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/dc5db230fd631f7586113a78aa40dcf0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/40f8ef64b8eca338f8bc2aec2c7dbc8d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/40f8ef64b8eca338f8bc2aec2c7dbc8d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/0453d98e8c682e47007a5fab668ce78d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/0453d98e8c682e47007a5fab668ce78d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/db878a3eb53d850ed54eb3c055936ab5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/db878a3eb53d850ed54eb3c055936ab5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/f7cf8b409f52ef3a7b69907e669f38aa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/f7cf8b409f52ef3a7b69907e669f38aa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/8b00ea91df13925d2d3a218fa456ba26/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/8b00ea91df13925d2d3a218fa456ba26/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/69ba525426acfc0d44e29e488a760f4a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/69ba525426acfc0d44e29e488a760f4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/d87eefa7a6bdb39cb3badd35cda4dd0b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/d87eefa7a6bdb39cb3badd35cda4dd0b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/027dd2eea7ea216e10b036bd0efbe397/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/027dd2eea7ea216e10b036bd0efbe397/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e61689adcd552532961c79c300562bf3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e61689adcd552532961c79c300562bf3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/361dac6833244b0a1f49af0aab4044c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/361dac6833244b0a1f49af0aab4044c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/9b09a38ccbf118144a918f7f0cc0fb1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/9b09a38ccbf118144a918f7f0cc0fb1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/00d01b5b00178c392557e980276db7fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/00d01b5b00178c392557e980276db7fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/f75e691120097c7182e0372b06b24bb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/f75e691120097c7182e0372b06b24bb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/55becfdadd456a46bc675429d5d23a85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/55becfdadd456a46bc675429d5d23a85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/83d7ab0863e79cba8326c19735e4e7fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/83d7ab0863e79cba8326c19735e4e7fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/7c1ea6d205c30cd27fd8ac54063b1bc4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/7c1ea6d205c30cd27fd8ac54063b1bc4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/44dd3b029ffb06433c4a073acb6c6c0c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/44dd3b029ffb06433c4a073acb6c6c0c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/23a8c8666ba08366e003b4823fac3a4c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/23a8c8666ba08366e003b4823fac3a4c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/4840fc27f0f7b1f8fa51046c9765a332/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/4840fc27f0f7b1f8fa51046c9765a332/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/d209986e284c296261b00f81aa5aceb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/d209986e284c296261b00f81aa5aceb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/48c5ac949a426542474bdad0be4afd5e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/48c5ac949a426542474bdad0be4afd5e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/bc4dcfe31c3ed02549ab1fd7d7c92beb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/bc4dcfe31c3ed02549ab1fd7d7c92beb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/7f48f889e13ad3d508294682332efc89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/7f48f889e13ad3d508294682332efc89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/5bb785c72d1279c5f94804b6dd11b30e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/5bb785c72d1279c5f94804b6dd11b30e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/f1e509e163820a68aaf0af12cfac9d07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/f1e509e163820a68aaf0af12cfac9d07/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/4ebf9736dcc0d4a2a1222d69ac90b9ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/4ebf9736dcc0d4a2a1222d69ac90b9ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/ab1a329fb30bbd0671a05e0477484e76/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/ab1a329fb30bbd0671a05e0477484e76/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/ac3eacf3df8b0587eabca2d4cf230c3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/ac3eacf3df8b0587eabca2d4cf230c3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/1153a11382ef3cccb157244adf397b45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/1153a11382ef3cccb157244adf397b45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/80d88ce176c14e5ff0e06d7e06ea2a57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/80d88ce176c14e5ff0e06d7e06ea2a57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/61ed52acd4361c8f588f1a3d02def1f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/61ed52acd4361c8f588f1a3d02def1f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/b66f7f3144c32675c050875a06e11083/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/b66f7f3144c32675c050875a06e11083/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/feda5de4e782cbf8b9eacc749ac73bc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/feda5de4e782cbf8b9eacc749ac73bc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/a6d3ed556e2a2db10778142ee667ae41/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/a6d3ed556e2a2db10778142ee667ae41/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/46fa76fb584be203889b21aee0aa194a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/46fa76fb584be203889b21aee0aa194a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/0f24bafd2b57d6c98a656c669e152da9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/0f24bafd2b57d6c98a656c669e152da9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/655520722714df3940df30cb50023961/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/655520722714df3940df30cb50023961/AndroidManifest.xml:20:5-44
+INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/32b574b6a9a3b80f492fe908674226c6/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/9a2fbc511e0bab3182b2cf1f87cd032d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/9a2fbc511e0bab3182b2cf1f87cd032d/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/32b574b6a9a3b80f492fe908674226c6/AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/32b574b6a9a3b80f492fe908674226c6/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/32b574b6a9a3b80f492fe908674226c6/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/32b574b6a9a3b80f492fe908674226c6/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/32b574b6a9a3b80f492fe908674226c6/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/32b574b6a9a3b80f492fe908674226c6/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/32b574b6a9a3b80f492fe908674226c6/AndroidManifest.xml:34:13-50
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:33:9-39:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/e87758033d52b1f2deee18ca0e520ee0/AndroidManifest.xml:37:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/40f8ef64b8eca338f8bc2aec2c7dbc8d/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/40f8ef64b8eca338f8bc2aec2c7dbc8d/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/40f8ef64b8eca338f8bc2aec2c7dbc8d/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/40f8ef64b8eca338f8bc2aec2c7dbc8d/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/0453d98e8c682e47007a5fab668ce78d/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/0453d98e8c682e47007a5fab668ce78d/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/0453d98e8c682e47007a5fab668ce78d/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/0453d98e8c682e47007a5fab668ce78d/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/ibrahimmuslim/.gradle/caches/transforms-2/files-2.1/0453d98e8c682e47007a5fab668ce78d/AndroidManifest.xml:11:13-77

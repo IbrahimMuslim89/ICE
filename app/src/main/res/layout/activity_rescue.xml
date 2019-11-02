@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Rescue"
+    android:background="@color/ScreenColor"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <EditText
+            android:id="@+id/editText11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:layout_below="@id/toolbar"
+            android:layout_marginTop="20dp"
+            android:hint="@string/E_details"/>
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/Redcolor"
+            app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+
+            ></androidx.appcompat.widget.Toolbar>
+
+
+
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="193dp"
+            android:layout_height="193dp"
+            android:layout_marginTop="50dp"
+            app:srcCompat="@drawable/ic_nfc_black_24dp"
+            android:contentDescription="@string/Profile"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/editText11"/>
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Add_NFC"
+            android:background="@color/Redcolor"
+            android:textColor="@color/white"
+            android:layout_below="@id/imageView4"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="20dp"/>
+
+
+
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".login"
+    android:background="@color/ScreenColor">
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/Redcolor"
+            app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+
+            ></androidx.appcompat.widget.Toolbar>
+
+
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Login_button"
+            android:textSize="60sp"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/Redcolor"
+            android:layout_marginTop="150dp"/>
+
+        <EditText
+            android:id="@+id/Email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textEmailAddress"
+            android:layout_below="@id/textView2"
+            android:layout_marginTop="50dp"
+            android:hint="@string/Email"
+            android:importantForAutofill="no" />
+
+        <EditText
+            android:id="@+id/Password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:layout_marginTop="20dp"
+            android:inputType="textPassword"
+            android:layout_below="@id/Email"
+            android:hint="@string/Password"
+            android:importantForAutofill="no" />
+
+        <Button
+            android:id="@+id/loginBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Login_button"
+            android:textColor="@color/white"
+            android:background="@color/Redcolor"
+            android:layout_below="@id/Password"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="80dp"
+            android:paddingHorizontal="60dp"/>
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Login_text"
+            android:layout_below="@id/loginBtn"
+            android:layout_marginTop="20dp"
+            android:layout_centerHorizontal="true"
+            android:textSize="20sp"/>
+    </RelativeLayout>
+
+
+</ScrollView>

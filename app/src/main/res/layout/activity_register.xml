@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Register"
+    android:background="@color/ScreenColor">
+
+
+
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/Redcolor"
+            app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+
+            ></androidx.appcompat.widget.Toolbar>
+
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="193dp"
+            android:layout_height="193dp"
+            app:srcCompat="@drawable/profile"
+            android:layout_below="@id/toolbar"
+            android:layout_marginTop="20dp"
+            android:layout_centerHorizontal="true"
+            android:contentDescription="@string/image"
+            android:layout_marginBottom="20dp"/>
+
+        <Button
+            android:id="@+id/Set_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Set_button"
+            android:layout_below="@id/imageView5"
+            android:layout_centerHorizontal="true"/>
+
+        <EditText
+            android:id="@+id/F_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:layout_below="@id/Set_button"
+            android:hint="@string/F_name"
+            android:layout_marginBottom="10dp"
+            android:textSize="25sp"/>
+
+
+
+        <EditText
+            android:id="@+id/L_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:hint="@string/L_name"
+            android:layout_below="@id/F_name"
+            android:layout_marginBottom="10dp"
+            android:textSize="25sp"/>
+
+        <Button
+            android:id="@+id/calender_button"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="56dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/L_name"
+            android:background="@drawable/ic_date_range_black_24dp" />
+
+        <EditText
+            android:id="@+id/DOB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:inputType="date"
+            android:focusable="false"
+            android:hint="@string/DPL"
+            android:layout_marginLeft="55dp"
+            android:layout_below="@id/L_name"
+            android:textSize="25sp"/>
+
+        <Button
+            android:id="@+id/imageButton"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="56dp"
+            android:layout_height="42dp"
+            android:layout_below="@id/calender_button"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/blood"
+            />
+
+
+
+
+        <EditText
+            android:id="@+id/Blood_group"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:hint="@string/blood_group"
+            android:layout_below="@id/DOB"
+            android:layout_marginLeft="60dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="25sp"
+            android:maxLength="3"/>
+
+        <EditText
+            android:id="@+id/Email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:hint="@string/Email"
+            android:layout_below="@id/Blood_group"
+            android:layout_marginBottom="10dp"
+            android:textSize="25sp"/>
+
+
+
+        <EditText
+            android:id="@+id/Password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/Email"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:ems="10"
+            android:hint="@string/Password"
+            android:inputType="textPersonName"
+            android:textSize="25sp" />
+
+
+        <EditText
+            android:id="@+id/CPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:hint="@string/cPassword"
+            android:layout_below="@id/Password"
+            android:layout_marginBottom="10dp"
+            android:textSize="25sp"/>
+
+        <Button
+            android:id="@+id/contactbutton"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="50dp"
+            android:layout_height="42dp"
+            android:layout_below="@id/CPassword"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/ic_contact_phone_black_24dp"
+            />
+
+        <EditText
+            android:id="@+id/phonenum"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number"
+            android:layout_marginLeft="60dp"
+            android:hint="@string/Phone"
+            android:maxLength="3"
+            android:layout_below="@id/CPassword"
+            android:layout_marginBottom="10dp"
+            android:textSize="25sp"/>
+        <EditText
+            android:id="@+id/phonenum2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number"
+            android:layout_marginLeft="140dp"
+            android:hint="@string/Phone2"
+            android:maxLength="10"
+            android:layout_below="@id/CPassword"
+            android:layout_marginBottom="10dp"
+            android:textSize="25sp"/>
+
+
+        <EditText
+            android:id="@+id/Health_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:hint="@string/Health"
+            android:layout_below="@id/phonenum"
+            android:layout_marginBottom="10dp"
+            android:textSize="25sp"/>
+
+        <EditText
+            android:id="@+id/Adress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:hint="@string/Address"
+            android:layout_below="@id/Health_description"
+            android:layout_marginBottom="10dp"
+            android:textSize="25sp"/>
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Diabetes"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="10dp"
+            android:layout_below="@id/Adress"
+            android:textSize="25sp"/>
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Blood_pressure"
+            android:layout_below="@id/textView4"
+            android:layout_marginTop="5dp"
+            android:textSize="25sp"/>
+
+        <RadioGroup
+            android:id="@+id/r1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_below="@id/Adress"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            >
+            <RadioButton
+                android:id="@+id/diabities_y"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/R1" />
+
+            <RadioButton
+                android:id="@+id/diabities_N"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/R2" />
+        </RadioGroup>
+        <RadioGroup
+            android:id="@+id/r2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_below="@id/r1"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="15dp">
+            <RadioButton
+                android:id="@+id/bp_y"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/R1" />
+
+            <RadioButton
+                android:id="@+id/bp_N"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/R2" />
+        </RadioGroup>
+        <TextView
+            android:id="@+id/emergency_text_details"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/emergency_text"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/r2"
+            android:textColor="@color/Redcolor"
+            android:textStyle="bold"
+
+            android:layout_marginTop="5dp"
+            android:textSize="25sp"/>
+
+        <Button
+            android:id="@+id/contactbuttone"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="50dp"
+            android:layout_height="42dp"
+            android:layout_below="@id/emergency_text_details"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/ic_contact_phone_black_24dp"
+            />
+
+        <EditText
+            android:id="@+id/contacte1"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number"
+            android:layout_marginLeft="60dp"
+            android:hint="@string/Phone"
+            android:maxLength="3"
+            android:layout_below="@id/emergency_text_details"
+            android:layout_marginBottom="10dp"
+            android:textSize="25sp"/>
+        <EditText
+            android:id="@+id/contacte2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number"
+            android:layout_marginLeft="140dp"
+            android:hint="@string/Phone2"
+            android:maxLength="10"
+            android:layout_below="@id/emergency_text_details"
+            android:layout_marginBottom="10dp"
+            android:textSize="25sp"/>
+
+        <Button
+            android:id="@+id/SignupBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/emergency_person_relation"
+            android:layout_marginBottom="20dp"
+            android:background="@color/Redcolor"
+            android:text="@string/Signup_button"
+            android:textColor="@color/white"
+            android:layout_centerHorizontal="true"
+            android:textSize="25sp"/>
+        <EditText
+            android:id="@+id/emergency_person_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/contacte1"
+            android:layout_marginTop="6dp"
+            android:inputType="textPersonName"
+            android:layout_marginBottom="10dp"
+            android:hint="@string/Emergency_Name"
+            android:textSize="25sp"/>
+        <EditText
+            android:id="@+id/emergency_person_relation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/emergency_person_name"
+            android:layout_marginTop="6dp"
+            android:inputType="textPersonName"
+            android:layout_marginBottom="10dp"
+            android:hint="@string/Emergency_Relation"
+            android:textSize="25sp"/>
+
+
+
+    </RelativeLayout>
+</ScrollView>

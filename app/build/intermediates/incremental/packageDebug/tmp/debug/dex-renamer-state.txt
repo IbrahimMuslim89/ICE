@@ -1,0 +1,4 @@
+#Sun Nov 03 04:32:31 PKT 2019
+base.0=/Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE-20191101T175437Z-001/ICE/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

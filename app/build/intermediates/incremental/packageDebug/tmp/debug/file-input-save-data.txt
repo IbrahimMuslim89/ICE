@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Nov 02 03:57:36 PKT 2019
+0.baseType=DIRECTORY
+0.base=/Volumes/Uncle/Online Drives/Google Drive/ProjectX/ICE-20191101T175437Z-001/ICE/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

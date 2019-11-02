@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "143793147519",
+    "firebase_url": "https://fyp-incaseofemergency.firebaseio.com",
+    "project_id": "fyp-incaseofemergency",
+    "storage_bucket": "fyp-incaseofemergency.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143793147519:android:95555db94068b845f3794a",
+        "android_client_info": {
+          "package_name": "com.example.ice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143793147519-rcpi5d34binsutivffu3em4jph7563uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ice",
+            "certificate_hash": "846c267e0311a51bf347c046ac2056a7fe53ca45"
+          }
+        },
+        {
+          "client_id": "143793147519-s25rk15v0fd0h1qhtn2t2eqblud9n7uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ice",
+            "certificate_hash": "ac6a192fb85a6bbea40a6d171e98090b9f8af80b"
+          }
+        },
+        {
+          "client_id": "143793147519-4kjner9csen0vgbm0e7k4rm65qkq3bbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcWkW_PXlTjrlJLWNWvYa3VWgHtow5rbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143793147519-4kjner9csen0vgbm0e7k4rm65qkq3bbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

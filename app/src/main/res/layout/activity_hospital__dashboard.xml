@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Hospital_Dashboard"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+
+    >
+
+
+
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/Redcolor"
+            app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+
+            ></androidx.appcompat.widget.Toolbar>
+
+        <TextView
+            android:id="@+id/hospital_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Hospital_dashboard"
+            android:textSize="30sp"
+            android:textColor="@color/black"
+            android:layout_below="@id/toolbar"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp"
+
+
+
+            />
+
+        <TextView
+            android:id="@+id/Live_location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Live_locationbtn"
+            android:layout_below="@id/hospital_name"
+            android:textSize="24sp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="20dp"
+
+            />
+
+        <TextView
+            android:id="@+id/History"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/History"
+            android:layout_below="@id/Live_location"
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="20dp"
+            />
+        <TextView
+            android:id="@+id/Address_h"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Addres_H"
+            android:layout_below="@id/History"
+            android:textSize="24sp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="20dp"
+            />
+        <TextView
+            android:id="@+id/Profile_patient"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Profile_patient"
+            android:layout_below="@id/Address_h"
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="20dp"
+
+            />
+
+
+
+    </RelativeLayout>
+
+</ScrollView>
